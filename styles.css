@@ -24,11 +24,13 @@ h2{
 }
 
 
-
 .websites a{
     line-height: 100px;
-    margin-bottom: 1in;
     color: rgb(205, 232, 255);
     font-size: 30px;
+}
+
+.websites {
+    margin-bottom: 200px;
 }
 
